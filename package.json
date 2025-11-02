@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_vuestronombre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manolohpz14/Primer_ejemplo_gitflow_VuestroNombre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manolohpz14/Primer_ejemplo_gitflow_VuestroNombre/issues"
+  },
+  "homepage": "https://github.com/manolohpz14/Primer_ejemplo_gitflow_VuestroNombre#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
